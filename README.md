@@ -4,6 +4,8 @@
 
 ## Interacción digital / 09-03-26
 
+pausa 16:00-16:20
+
 - Curso más político que entendamos los contextos...
 - `Casey Reas`: Estudió en MIT
   - Creador de processing: es como si fuera nuestra croquera <https://reas.com/>
