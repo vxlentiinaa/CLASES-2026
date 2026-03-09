@@ -18,3 +18,8 @@
 - <https://flutter.dev/> app para aprender a configurar mensajes
   - servidor: permite que todos se comuniquen entre todos
 - MQTT: protocolo de comunciación, una manera de ponerse de acuerdo para transmitir los mensajes
+  - publish/subscribe 
+- OSC: open sound control, es un protocolo
+- Rafael Lozano Hemmmer
+- Roy Macdonal <https://github.com/roymacdonald>
+- 
